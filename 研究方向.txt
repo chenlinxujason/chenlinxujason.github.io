@@ -1,0 +1,25 @@
+PhD: Designing (1)algorithms + (2) electronics (analog circuit + architectures）for decoding neural 
+signals/stimulating neuron in the context of fully implantable brain-machine interfaces
+(Novel algorithms require novel architecture and circuit)
+
+Core skill: analog electronics + signal processing (machine learning, algorithm)
+
+Adjunt skill: electrode material + computer architecture
+
+
+Corses:
+**Analog IC design (Duke ECE 532)
+**CMOS VLSI (Duke ECE 527)
+**Semiconductor Physics (Duke ECE 526)
+**Signal processing (Duke BME 671, and maybe more...)
+
+* Computer architecture (Duke ECE 550)
+* Digital IC design (Duke ECE 527)（not necessary, just for architecture coure）
+
+PhD:
+1st year 上: Digital IC （2021下）
+1st year 下: Computer architecture（2022上）
+
+2st year 上：C++（2022下）
+2st year 下：经济。。。（2023上）
+。。。。

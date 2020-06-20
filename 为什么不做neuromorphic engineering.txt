@@ -1,0 +1,12 @@
+为什么不做neuromorphic engineering:
+
+1. 与脑机接口没有直接关系
+
+2. neuromorphic structure在运算速度方面并没有比其他ASIC有优势。搭芯片只需要运算速度/功耗有优势
+    就行，没必要死磕neuromorphic
+
+3.可以用来解决neural engineering实验代码跑太慢的问题（相当于专门搭了一个ASIC，用于跑neural相关算法)
+但同样没法用来解决大脑神经研究的基本问题
+
+*4.目前主流neuromorphic chip还是analog/device(包括Mead), 只有IBM/Boehan少数人搞digital,这个领域
+已经没什么活力？
